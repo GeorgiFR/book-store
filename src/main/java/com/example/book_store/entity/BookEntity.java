@@ -24,8 +24,6 @@ public class BookEntity {
     String description;
 
     String authorName;
-//    @Embedded
-//    Author author;
 
     double price;
 }
